@@ -66,7 +66,7 @@ Before you begin, you will need to have the following tools installed on your ma
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:biachacon/nlw04.git
+$ git clone git@github.com:biachacon/nps.git
 
 # Access the project folder cmd/terminal
 $ cd nps
