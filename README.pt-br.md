@@ -20,7 +20,7 @@
 
 ## ℹ️ Sobre o projeto
 
-API Restful for Net Promoter Score created at [RocketSeat](https://rocketseat.com.br/) Next Level Week 4.0, using stack TypeScript with Node.js.
+API Restful para Net Promoter Score criado na [RocketSeat](https://rocketseat.com.br/) Next Level Week 4.0, usando TypeScript com Node.js.
 
 ---
 
@@ -81,7 +81,7 @@ $ cd api
 # Instale as dependências
 $ npm install
 
-#Criar migrations
+# Criar migrations
 $ yarn typeorm migration:run
 
 # Execute a aplicação
