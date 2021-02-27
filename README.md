@@ -69,7 +69,7 @@ Before you begin, you will need to have the following tools installed on your ma
 $ git clone git@github.com:biachacon/nlw04.git
 
 # Access the project folder cmd/terminal
-$ cd nlw04
+$ cd nps
 ```
 
 #### 🎲 Running the server
